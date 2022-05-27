@@ -1,0 +1,5 @@
+class VideoController {
+  onTapHeart() {}
+
+  onTapComment() {}
+}
